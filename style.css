@@ -84,3 +84,12 @@ p.café{
     font-weight: bolder;
     text-align:left;
 }
+ul.circle{
+    list-style-type: circle;
+}
+ol.romanosmayusculas{
+    list-style-type: upper-roman;
+}
+ol.letrasminusculas{
+list-style-type: lower-alpha;
+}
